@@ -8,14 +8,19 @@ qfr.hex - The compiled build file generated from the layout file. The HEX file i
 
 ## Layers
 Default Layer: Standard QWERTY layout. https://en.wikipedia.org/wiki/QWERTY
+![layer1](https://github.com/sinerasis/sharedimages/blob/master/frosty-flake-qfr/qfr-layer1.png)
 
 FN Layer: Standard QWERTY with boot mode and media keys.
+![layerfn](https://github.com/sinerasis/sharedimages/blob/master/frosty-flake-qfr/qfr-layerfn.png)
 
 Layer 2: Mouse layer.
+![layer2](https://github.com/sinerasis/sharedimages/blob/master/frosty-flake-qfr/qfr-layer2.png)
 
 Layer 3: Standard Dvorak layout. https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+![layer3](https://github.com/sinerasis/sharedimages/blob/master/frosty-flake-qfr/qfr-layer3.png)
 
 Layer 4: Standard Colemak layout. https://colemak.com/
+![layer4](https://github.com/sinerasis/sharedimages/blob/master/frosty-flake-qfr/qfr-layer4.png)
 
 ## Relevant links
 
